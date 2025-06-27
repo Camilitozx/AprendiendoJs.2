@@ -33,7 +33,3 @@ Este proyecto fue desarrollado como parte del entrenamiento del Módulo 3 Semana
 - `gestion_datos.js`: Código JavaScript principal del programa.
 - `README.md`: Archivo explicativo del proyecto.
 
-## Autor
-
-Desarrollado por: *[Tu Nombre Aquí]*  
-Entrenamiento JavaScript – Módulo 3 Semana 2
